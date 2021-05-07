@@ -121,6 +121,7 @@ extension CalculatorViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("test")
     }
 }
 
